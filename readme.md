@@ -1,6 +1,6 @@
 Quickstart
 --------------
-1. Run tomcat7:run maven goal. This will download all dependencies, compile the webapp a start an embedded tomcat7 instence.
+1. Run tomcat7:run maven goal. This will download all dependencies, compile the webapp and start an embedded tomcat7 instance.
 2. Call http://localhost:8080/cloudspace to take a look at your cloud based filesystem.
 
 HowTo
